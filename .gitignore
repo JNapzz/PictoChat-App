@@ -1,0 +1,47 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Local configuration file (hides your absolute paths and local SDK locations)
+local.properties
+
+# IntelliJ IDEA / Android Studio files
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+
+# macOS specific (if your friend uses a Mac)
+.DS_Store
+
+# User-specific configuration
+*.jks
+*.keystore
+
+# Google Services (if you add Firebase later)
+google-services.json
+
+# Navigation component generated safe args
+*/build/generated/source/navigation-args
