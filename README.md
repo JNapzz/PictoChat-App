@@ -36,5 +36,4 @@ Check out the [GitHub Projects Board](link-to-your-board) to see current sprints
 * **Phase 4:** P2P Networking Integration
 
 ## 🤝 Contributors
-* [Your Name/GitHub Handle]
-* [Friend's Name/GitHub Handle]
+* Justyn Napolitano / https://github.com/JNapzz
