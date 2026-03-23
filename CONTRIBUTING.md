@@ -18,3 +18,6 @@ We use a feature-branch workflow. **Never commit directly to the `main` branch.*
 ## 📏 Code Style & Standards
 * We follow standard Kotlin formatting conventions. (Ensure the `.editorconfig` rules are applied).
 * Before opening a PR, ensure there are no unresolved warnings or critical errors in Android Studio.
+
+Contributors
+Justyn Napolitano | github.com/JNapzz
