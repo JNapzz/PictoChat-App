@@ -22,7 +22,7 @@ Instead of trying to build a jack-of-all-trades messaging giant, this project ta
 * **Serialization:** kotlinx.serialization
 
 ## 📱 Installation & Setup
-1. Clone this repository: `git clone https://github.com/YourUsername/YourRepoName.git`
+1. Clone this repository: `git clone https://github.com/JNapzz/PictoChat-App.git`
 2. Open the project in Android Studio.
 3. Sync Gradle files.
 4. Build and run the app on two physical Android devices (emulators do not support Nearby Connections effectively).
